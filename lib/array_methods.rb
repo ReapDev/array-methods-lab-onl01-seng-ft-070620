@@ -1,6 +1,6 @@
 def using_include(array, element)
   two_things = ["uno", "dos"]
-  two_things.include?("pop")
+  two_things.include?("uno")
 end
 
 def using_sort(array)
